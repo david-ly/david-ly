@@ -16,12 +16,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          base: header
+          base: header, activity, repositories, metadata
           base_hireable: yes
           base_skip: yes
+          config_octicon: yes # does this do anything?
           config_timezone: America/Los_Angeles
           # plugin_achievements: yes
           plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           # plugin_calendar: yes
           plugin_gists: yes
           plugin_languages: yes
@@ -39,6 +45,9 @@ jobs:
           # plugin_notable: yes
           # plugin_notable_from: organization
           # plugin_notable_types: commit
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: davidmacly.dev
+          plugin_traffic: yes
           # plugin_projects: yes
           # plugin_projects_limit: 4
           template: classic
