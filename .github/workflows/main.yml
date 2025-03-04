@@ -34,13 +34,13 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: resume-cv
+          plugin_languages_skipped: apple-configurator, resume-cv
           plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          # plugin_notable: yes
+          # plugin_notable_from: organization
+          # plugin_notable_types: commit
+          # plugin_projects: yes
+          # plugin_projects_limit: 4
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           use_prebuilt_image: yes
