@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          base: header, activity, repositories, metadata
+          base: header, repositories, metadata
           base_hireable: yes
           base_skip: yes
           config_octicon: yes # does this do anything?
@@ -47,12 +47,12 @@ jobs:
           # plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://davidmacly.dev
           plugin_traffic: yes
           # plugin_projects: yes
           # plugin_projects_limit: 4
+          plugins_errors_fatal: yes
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           use_prebuilt_image: yes
