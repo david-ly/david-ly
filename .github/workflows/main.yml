@@ -46,7 +46,10 @@ jobs:
           # plugin_notable_from: organization
           # plugin_notable_types: commit
           plugin_pagespeed: yes
-          plugin_pagespeed_url: davidmacly.dev
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://davidmacly.dev
           plugin_traffic: yes
           # plugin_projects: yes
           # plugin_projects_limit: 4
