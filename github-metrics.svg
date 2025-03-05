@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            178 Commits
+                            180 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -186,14 +186,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.40876743524055" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="210.40876743524055" y="0" width="171.00711642470824" height="8" fill="#6a40fd"/>
-                    <rect mask="url(#languages-bar)" x="381.4158838599488" y="0" width="28.299459151722175" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="409.71534301167094" y="0" width="14.520922288642186" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="424.2362653003131" y="0" width="11.298605180757187" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="435.5348704810703" y="0" width="9.537717050953601" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.0725875320239" y="0" width="8.610873896954171" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.6834614289781" y="0" width="6.316538571021918" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.81831715273955" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="208.81831715273955" y="0" width="169.71449768099993" height="8" fill="#6a40fd"/>
+                    <rect mask="url(#languages-bar)" x="378.53281483373945" y="0" width="31.562622828393994" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.09543766213346" y="0" width="14.411160679191887" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="424.50659834132534" y="0" width="11.213200613159344" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="435.7197989544847" y="0" width="9.465622789088908" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.1854217435736" y="0" width="8.545785512145272" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.73120725571886" y="0" width="6.26879274428111" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -305,7 +305,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                         </svg>
-                        API error: 429 ((consider using "plugin_pagespeed_token"))
+                        API error: 403
                     </div>
                 </section>
             </div>
@@ -318,6 +318,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">david-ly/leetcode-solutions</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#825428d</div>
+                                        <div class="message">feat(js): add code for LC problems [14 + 27] &amp; update .gitignore</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -401,35 +421,12 @@ skipped repos csv, comment out notable+projects</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">david-ly/david-ly</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#091f96b</div>
-                                        <div class="message">feat(opts): update Metrics action `main.yml`
-
-Comment out `achievements`/`calendar` plugins, 
-delete intro, &amp; tune `plugin_languages` settings</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2025, 16:57:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 23:57:49 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
