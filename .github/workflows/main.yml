@@ -19,6 +19,7 @@ jobs:
           base: header, repositories, metadata
           base_hireable: yes
           base_skip: yes
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           config_octicon: yes # does this do anything?
           config_timezone: America/Los_Angeles
           # plugin_achievements: yes
