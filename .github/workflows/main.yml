@@ -41,7 +41,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: apple-configurator, mmendless, resume-cv
+          # plugin_languages_skipped: apple-configurator, mmendless, resume-cv
           plugin_languages_threshold: 0%
           # plugin_notable: yes
           # plugin_notable_from: organization
@@ -54,6 +54,7 @@ jobs:
           # plugin_projects: yes
           # plugin_projects_limit: 4
           plugins_errors_fatal: yes
+          repositories_skipped: apple-configurator, david-ly, mmendless, resume-cv
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           use_prebuilt_image: yes
