@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: david-ly/lowlighter-metrics:test-project-graphql
         with:
           base: header, repositories, metadata
           base_hireable: yes
