@@ -13,8 +13,10 @@ jobs:
       name: production
     permissions:
       contents: write
+    container:
+      image: ghcr.io/david-ly/lowlighter-metrics:test-project-graphql
     steps:
-      - uses: david-ly/lowlighter-metrics@test-project-graphql
+      - uses: actions/checkout@v3
         with:
           base: header, repositories, metadata
           base_hireable: yes
