@@ -14,15 +14,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Login to GitHub Container Registry
-        uses: docker/login-action@v2
-        with:
-          registry: ghcr.io
-          username: ${{ github.actor }}
-          password: ${{ secrets.GHCR_TOKEN }}
+      # - uses: actions/checkout@v3
+      # - name: Login to GitHub Container Registry
+      #   uses: docker/login-action@v2
+      #   with:
+      #     registry: ghcr.io
+      #     username: ${{ github.actor }}
+      #     password: ${{ secrets.GHCR_TOKEN }}
       - name: Generate metrics
-        uses: docker://ghcr.io/david-ly/lowlighter-metrics:test-project-graphql
+        uses: david-ly/lowlighter-metrics@test-project-graphql
         with:
           base: header, repositories, metadata
           base_hireable: yes
