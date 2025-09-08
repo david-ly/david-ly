@@ -27,7 +27,7 @@ jobs:
           base: header, repositories, metadata
           base_hireable: yes
           base_skip: yes
-          committer_token: ${{ github.token }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           # config_octicon: yes # does this do anything?
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
@@ -63,5 +63,5 @@ jobs:
           plugins_errors_fatal: yes
           repositories_skipped: apple-configurator, david-ly, mmendless, resume-cv
           template: classic
-          token: ${{ github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # use_prebuilt_image: yes
