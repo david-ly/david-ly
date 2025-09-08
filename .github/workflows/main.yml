@@ -60,7 +60,7 @@ jobs:
           plugin_traffic: yes
           # plugin_projects: yes
           # plugin_projects_limit: 4
-          plugins_errors_fatal: yes
+          # plugins_errors_fatal: yes
           repositories_skipped: apple-configurator, david-ly, mmendless, resume-cv
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
