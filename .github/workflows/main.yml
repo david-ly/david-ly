@@ -8,19 +8,20 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     environment:
       name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: david-ly/lowlighter-metrics@tpg-clean-Dockerfile
         with:
           base: header, repositories, metadata
           base_hireable: yes
           base_skip: yes
           committer_token: ${{ secrets.METRICS_TOKEN }}
           config_octicon: yes # does this do anything?
+          config_display: large
           config_timezone: America/Los_Angeles
           # plugin_achievements: yes
           plugin_activity: yes
