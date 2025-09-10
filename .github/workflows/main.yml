@@ -29,6 +29,7 @@ jobs:
           base_skip: yes
           committer_token: ${{ secrets.METRICS_TOKEN }}
           # config_octicon: yes # does this do anything?
+          config_display: large
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
           plugin_activity: yes
@@ -61,7 +62,7 @@ jobs:
           # plugin_projects: yes
           # plugin_projects_limit: 4
           # plugins_errors_fatal: yes
-          repositories_skipped: apple-configurator, david-ly, mmendless, resume-cv
+          repositories_skipped: apple-configurator, mmendless, resume-cv
           template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           # use_prebuilt_image: yes
