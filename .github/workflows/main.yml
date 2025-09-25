@@ -19,7 +19,6 @@ jobs:
           base: header, repositories, metadata
           base_hireable: yes
           base_skip: yes
-          committer_token: ${{ secrets.METRICS_TOKEN }}
           config_octicon: yes
           config_display: large
           config_timezone: America/Los_Angeles
