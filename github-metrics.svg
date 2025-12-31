@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2598" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2132" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}svg.large .audits{display:inline-flex;width:474px}svg.large .audits section:last-child&gt;.field{justify-content:right}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.rss{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}svg.large .audits{display:inline-flex;width:474px}svg.large .audits section:last-child&gt;.field{justify-content:right}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -121,7 +121,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    0 views in last two weeks
+                                    2 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -324,13 +324,13 @@
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.62 s</div>
+                        <div class="audit text">0.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.09</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -366,13 +366,13 @@
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.62 s</div>
+                        <div class="audit text">0.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.09</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -408,116 +408,12 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
+                                        Pushed 15 commits in
                                         <span class="repo">david-ly/david-ly.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a66157</div>
-                                        <div class="message">chore(deps): bump react from 19.1.0 to 19.2.0
-
-Bumps [react](https://github.com/facebook/react/tree/HEAD/packages/react) from 19.1.0 to 19.2.0.
-- [Release notes](https://github.com/facebook/react/releases)
-- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/facebook/react/commits/v19.2.0/packages/react)
-
----
-updated-dependencies:
-- dependency-name: react
-  dependency-version: 19.2.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c843806</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 9.29.0 to 9.39.1
-
-Bumps [eslint](https://github.com/eslint/eslint) from 9.29.0 to 9.39.1.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Commits](https://github.com/eslint/eslint/compare/v9.29.0...v9.39.1)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-version: 9.39.1
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c464d4</div>
-                                        <div class="message">chore(deps): bump `react-dom` to match `react` pkg ver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0055aa2</div>
-                                        <div class="message">chore(games): update layout/page description
-
-Improved the paragraph's clarity/wording and denoted it as something I worked on in a previous, no longer current, role</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b31140</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.3.1 to 1.5.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.3.1 to 1.5.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.3.1...v1.5.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#605018a</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/rss from 4.0.12 to 4.0.14
-
-Bumps [@astrojs/rss](https://github.com/withastro/astro/tree/HEAD/packages/astro-rss) from 4.0.12 to 4.0.14.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro-rss/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/rss@4.0.14/packages/astro-rss)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/rss"
-  dependency-version: 4.0.14
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3051902</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/sitemap from 3.5.1 to 3.6.0
-
-Bumps [@astrojs/sitemap](https://github.com/withastro/astro/tree/HEAD/packages/integrations/sitemap) from 3.5.1 to 3.6.0.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/sitemap/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/sitemap@3.6.0/packages/integrations/sitemap)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/sitemap"
-  dependency-version: 3.6.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
                                     <div class="commit">
                                         <div class="sha">#14ee856</div>
                                         <div class="message">chore(deps): bump mdast-util-to-hast from 13.2.0 to 13.2.1
@@ -810,116 +706,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 21 commits in
+                                        Pushed 14 commits in
                                         <span class="repo">david-ly/david-ly.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a66157</div>
-                                        <div class="message">chore(deps): bump react from 19.1.0 to 19.2.0
-
-Bumps [react](https://github.com/facebook/react/tree/HEAD/packages/react) from 19.1.0 to 19.2.0.
-- [Release notes](https://github.com/facebook/react/releases)
-- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/facebook/react/commits/v19.2.0/packages/react)
-
----
-updated-dependencies:
-- dependency-name: react
-  dependency-version: 19.2.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c843806</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 9.29.0 to 9.39.1
-
-Bumps [eslint](https://github.com/eslint/eslint) from 9.29.0 to 9.39.1.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Commits](https://github.com/eslint/eslint/compare/v9.29.0...v9.39.1)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-version: 9.39.1
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c464d4</div>
-                                        <div class="message">chore(deps): bump `react-dom` to match `react` pkg ver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0055aa2</div>
-                                        <div class="message">chore(games): update layout/page description
-
-Improved the paragraph's clarity/wording and denoted it as something I worked on in a previous, no longer current, role</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b31140</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.3.1 to 1.5.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.3.1 to 1.5.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.3.1...v1.5.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#605018a</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/rss from 4.0.12 to 4.0.14
-
-Bumps [@astrojs/rss](https://github.com/withastro/astro/tree/HEAD/packages/astro-rss) from 4.0.12 to 4.0.14.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro-rss/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/rss@4.0.14/packages/astro-rss)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/rss"
-  dependency-version: 4.0.14
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3051902</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/sitemap from 3.5.1 to 3.6.0
-
-Bumps [@astrojs/sitemap](https://github.com/withastro/astro/tree/HEAD/packages/integrations/sitemap) from 3.5.1 to 3.6.0.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/sitemap/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/sitemap@3.6.0/packages/integrations/sitemap)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/sitemap"
-  dependency-version: 3.6.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
                                     <div class="commit">
                                         <div class="sha">#14ee856</div>
                                         <div class="message">chore(deps): bump mdast-util-to-hast from 13.2.0 to 13.2.1
@@ -1193,116 +985,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
+                                        Pushed 13 commits in
                                         <span class="repo">david-ly/david-ly.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a66157</div>
-                                        <div class="message">chore(deps): bump react from 19.1.0 to 19.2.0
-
-Bumps [react](https://github.com/facebook/react/tree/HEAD/packages/react) from 19.1.0 to 19.2.0.
-- [Release notes](https://github.com/facebook/react/releases)
-- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/facebook/react/commits/v19.2.0/packages/react)
-
----
-updated-dependencies:
-- dependency-name: react
-  dependency-version: 19.2.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c843806</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 9.29.0 to 9.39.1
-
-Bumps [eslint](https://github.com/eslint/eslint) from 9.29.0 to 9.39.1.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Commits](https://github.com/eslint/eslint/compare/v9.29.0...v9.39.1)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-version: 9.39.1
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c464d4</div>
-                                        <div class="message">chore(deps): bump `react-dom` to match `react` pkg ver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0055aa2</div>
-                                        <div class="message">chore(games): update layout/page description
-
-Improved the paragraph's clarity/wording and denoted it as something I worked on in a previous, no longer current, role</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b31140</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.3.1 to 1.5.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.3.1 to 1.5.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.3.1...v1.5.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#605018a</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/rss from 4.0.12 to 4.0.14
-
-Bumps [@astrojs/rss](https://github.com/withastro/astro/tree/HEAD/packages/astro-rss) from 4.0.12 to 4.0.14.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro-rss/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/rss@4.0.14/packages/astro-rss)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/rss"
-  dependency-version: 4.0.14
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3051902</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/sitemap from 3.5.1 to 3.6.0
-
-Bumps [@astrojs/sitemap](https://github.com/withastro/astro/tree/HEAD/packages/integrations/sitemap) from 3.5.1 to 3.6.0.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/sitemap/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/sitemap@3.6.0/packages/integrations/sitemap)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/sitemap"
-  dependency-version: 3.6.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
                                     <div class="commit">
                                         <div class="sha">#14ee856</div>
                                         <div class="message">chore(deps): bump mdast-util-to-hast from 13.2.0 to 13.2.1
@@ -1557,116 +1245,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 19 commits in
+                                        Pushed 12 commits in
                                         <span class="repo">david-ly/david-ly.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a66157</div>
-                                        <div class="message">chore(deps): bump react from 19.1.0 to 19.2.0
-
-Bumps [react](https://github.com/facebook/react/tree/HEAD/packages/react) from 19.1.0 to 19.2.0.
-- [Release notes](https://github.com/facebook/react/releases)
-- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/facebook/react/commits/v19.2.0/packages/react)
-
----
-updated-dependencies:
-- dependency-name: react
-  dependency-version: 19.2.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c843806</div>
-                                        <div class="message">chore(deps-dev): bump eslint from 9.29.0 to 9.39.1
-
-Bumps [eslint](https://github.com/eslint/eslint) from 9.29.0 to 9.39.1.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Commits](https://github.com/eslint/eslint/compare/v9.29.0...v9.39.1)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-version: 9.39.1
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c464d4</div>
-                                        <div class="message">chore(deps): bump `react-dom` to match `react` pkg ver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0055aa2</div>
-                                        <div class="message">chore(games): update layout/page description
-
-Improved the paragraph's clarity/wording and denoted it as something I worked on in a previous, no longer current, role</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b31140</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.3.1 to 1.5.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.3.1 to 1.5.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.3.1...v1.5.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#605018a</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/rss from 4.0.12 to 4.0.14
-
-Bumps [@astrojs/rss](https://github.com/withastro/astro/tree/HEAD/packages/astro-rss) from 4.0.12 to 4.0.14.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro-rss/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/rss@4.0.14/packages/astro-rss)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/rss"
-  dependency-version: 4.0.14
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3051902</div>
-                                        <div class="message">chore(deps-dev): bump @astrojs/sitemap from 3.5.1 to 3.6.0
-
-Bumps [@astrojs/sitemap](https://github.com/withastro/astro/tree/HEAD/packages/integrations/sitemap) from 3.5.1 to 3.6.0.
-- [Release notes](https://github.com/withastro/astro/releases)
-- [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/sitemap/CHANGELOG.md)
-- [Commits](https://github.com/withastro/astro/commits/@astrojs/sitemap@3.6.0/packages/integrations/sitemap)
-
----
-updated-dependencies:
-- dependency-name: "@astrojs/sitemap"
-  dependency-version: 3.6.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
                                     <div class="commit">
                                         <div class="sha">#14ee856</div>
                                         <div class="message">chore(deps): bump mdast-util-to-hast from 13.2.0 to 13.2.1
@@ -1949,7 +1533,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.9520876112252 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.03696098562627 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1985,7 +1569,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.63333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="144.15 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2007,7 +1591,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 478 times</div>
+                                <div class="text">Repositories have been deployed 479 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2084,7 +1668,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.79m out of 192m users</span>
+                                    <span class="gh">ranked 4.79m out of 193m users</span>
                                 </div>
                                 <div class="text">Published 17 public repositories</div>
                             </div>
@@ -2359,7 +1943,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2025, 17:15:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Dec 2025, 17:16:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
