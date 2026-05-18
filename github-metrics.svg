@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1749" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1999" class="large">
     <defs>
         <style/>
     </defs>
@@ -318,19 +318,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.41 s</div>
+                        <div class="audit text">0.29 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.66 s</div>
+                        <div class="audit text">0.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.09</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -360,19 +360,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.41 s</div>
+                        <div class="audit text">0.29 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.66 s</div>
+                        <div class="audit text">0.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.09</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -388,6 +388,601 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">david-ly/david-ly.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c24654e</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.7.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b58d25b</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
+
+Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
+- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
+- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-astro
+  dependency-version: 1.7.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01390ae</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
+
+Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-builder
+  dependency-version: 1.2.0
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fcff19</div>
+                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
+
+Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
+- [Release notes](https://github.com/sindresorhus/globals/releases)
+- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
+
+---
+updated-dependencies:
+- dependency-name: globals
+  dependency-version: 17.5.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c96c45</div>
+                                        <div class="message">chore(deps-dev): bump typescript-eslint from 8.53.0 to 8.59.2
+
+Bumps [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) from 8.53.0 to 8.59.2.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.59.2/packages/typescript-eslint)
+
+---
+updated-dependencies:
+- dependency-name: typescript-eslint
+  dependency-version: 8.58.2
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f65a662</div>
+                                        <div class="message">chore(deps): bump postcss from 8.5.3 to 8.5.14
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.5.3 to 8.5.14.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.5.3...8.5.14)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-version: 8.5.14
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f136834</div>
+                                        <div class="message">chore(deps-dev): bump @eslint/js from 9.39.2 to 10.0.1
+
+Bumps [@eslint/js](https://github.com/eslint/eslint/tree/HEAD/packages/js) from 9.39.2 to 10.0.1.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Commits](https://github.com/eslint/eslint/commits/v10.0.1/packages/js)
+
+---
+updated-dependencies:
+- dependency-name: "@eslint/js"
+  dependency-version: 10.0.1
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62b875</div>
+                                        <div class="message">chore(deps-dev): bump prettier-plugin-tailwindcss from 0.7.2 to 0.8.0
+
+Bumps [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) from 0.7.2 to 0.8.0.
+- [Release notes](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/compare/v0.7.2...v0.8.0)
+
+---
+updated-dependencies:
+- dependency-name: prettier-plugin-tailwindcss
+  dependency-version: 0.8.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d28adb3</div>
+                                        <div class="message">chore(deps): bump devalue from 5.6.4 to 5.8.1
+
+Bumps [devalue](https://github.com/sveltejs/devalue) from 5.6.4 to 5.8.1.
+- [Release notes](https://github.com/sveltejs/devalue/releases)
+- [Changelog](https://github.com/sveltejs/devalue/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sveltejs/devalue/compare/v5.6.4...v5.8.1)
+
+---
+updated-dependencies:
+- dependency-name: devalue
+  dependency-version: 5.8.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ee584e</div>
+                                        <div class="message">chore(deps): bump astro from 5.16.9 to 6.3.3
+
+Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 5.16.9 to 6.3.3.
+- [Release notes](https://github.com/withastro/astro/releases)
+- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
+- [Commits](https://github.com/withastro/astro/commits/astro@6.3.3/packages/astro)
+
+---
+updated-dependencies:
+- dependency-name: astro
+  dependency-version: 6.3.3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e281b3f</div>
+                                        <div class="message">chore(deps): bump react-dom from 19.2.4 to 19.2.6
+
+Bumps [react-dom](https://github.com/facebook/react/tree/HEAD/packages/react-dom) from 19.2.4 to 19.2.6.
+- [Release notes](https://github.com/facebook/react/releases)
+- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/facebook/react/commits/v19.2.6/packages/react-dom)
+
+---
+updated-dependencies:
+- dependency-name: react-dom
+  dependency-version: 19.2.6
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">david-ly/david-ly.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c24654e</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.7.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b58d25b</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
+
+Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
+- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
+- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-astro
+  dependency-version: 1.7.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01390ae</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
+
+Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-builder
+  dependency-version: 1.2.0
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fcff19</div>
+                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
+
+Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
+- [Release notes](https://github.com/sindresorhus/globals/releases)
+- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
+
+---
+updated-dependencies:
+- dependency-name: globals
+  dependency-version: 17.5.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c96c45</div>
+                                        <div class="message">chore(deps-dev): bump typescript-eslint from 8.53.0 to 8.59.2
+
+Bumps [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) from 8.53.0 to 8.59.2.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.59.2/packages/typescript-eslint)
+
+---
+updated-dependencies:
+- dependency-name: typescript-eslint
+  dependency-version: 8.58.2
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f65a662</div>
+                                        <div class="message">chore(deps): bump postcss from 8.5.3 to 8.5.14
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.5.3 to 8.5.14.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.5.3...8.5.14)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-version: 8.5.14
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f136834</div>
+                                        <div class="message">chore(deps-dev): bump @eslint/js from 9.39.2 to 10.0.1
+
+Bumps [@eslint/js](https://github.com/eslint/eslint/tree/HEAD/packages/js) from 9.39.2 to 10.0.1.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Commits](https://github.com/eslint/eslint/commits/v10.0.1/packages/js)
+
+---
+updated-dependencies:
+- dependency-name: "@eslint/js"
+  dependency-version: 10.0.1
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62b875</div>
+                                        <div class="message">chore(deps-dev): bump prettier-plugin-tailwindcss from 0.7.2 to 0.8.0
+
+Bumps [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) from 0.7.2 to 0.8.0.
+- [Release notes](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/compare/v0.7.2...v0.8.0)
+
+---
+updated-dependencies:
+- dependency-name: prettier-plugin-tailwindcss
+  dependency-version: 0.8.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d28adb3</div>
+                                        <div class="message">chore(deps): bump devalue from 5.6.4 to 5.8.1
+
+Bumps [devalue](https://github.com/sveltejs/devalue) from 5.6.4 to 5.8.1.
+- [Release notes](https://github.com/sveltejs/devalue/releases)
+- [Changelog](https://github.com/sveltejs/devalue/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sveltejs/devalue/compare/v5.6.4...v5.8.1)
+
+---
+updated-dependencies:
+- dependency-name: devalue
+  dependency-version: 5.8.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ee584e</div>
+                                        <div class="message">chore(deps): bump astro from 5.16.9 to 6.3.3
+
+Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 5.16.9 to 6.3.3.
+- [Release notes](https://github.com/withastro/astro/releases)
+- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
+- [Commits](https://github.com/withastro/astro/commits/astro@6.3.3/packages/astro)
+
+---
+updated-dependencies:
+- dependency-name: astro
+  dependency-version: 6.3.3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">david-ly/david-ly.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c24654e</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
+
+Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
+- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-parser
+  dependency-version: 5.7.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b58d25b</div>
+                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
+
+Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
+- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
+- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-astro
+  dependency-version: 1.7.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01390ae</div>
+                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
+
+Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
+- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
+
+---
+updated-dependencies:
+- dependency-name: fast-xml-builder
+  dependency-version: 1.2.0
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fcff19</div>
+                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
+
+Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
+- [Release notes](https://github.com/sindresorhus/globals/releases)
+- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
+
+---
+updated-dependencies:
+- dependency-name: globals
+  dependency-version: 17.5.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c96c45</div>
+                                        <div class="message">chore(deps-dev): bump typescript-eslint from 8.53.0 to 8.59.2
+
+Bumps [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) from 8.53.0 to 8.59.2.
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.59.2/packages/typescript-eslint)
+
+---
+updated-dependencies:
+- dependency-name: typescript-eslint
+  dependency-version: 8.58.2
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f65a662</div>
+                                        <div class="message">chore(deps): bump postcss from 8.5.3 to 8.5.14
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.5.3 to 8.5.14.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.5.3...8.5.14)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-version: 8.5.14
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f136834</div>
+                                        <div class="message">chore(deps-dev): bump @eslint/js from 9.39.2 to 10.0.1
+
+Bumps [@eslint/js](https://github.com/eslint/eslint/tree/HEAD/packages/js) from 9.39.2 to 10.0.1.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Commits](https://github.com/eslint/eslint/commits/v10.0.1/packages/js)
+
+---
+updated-dependencies:
+- dependency-name: "@eslint/js"
+  dependency-version: 10.0.1
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62b875</div>
+                                        <div class="message">chore(deps-dev): bump prettier-plugin-tailwindcss from 0.7.2 to 0.8.0
+
+Bumps [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) from 0.7.2 to 0.8.0.
+- [Release notes](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/compare/v0.7.2...v0.8.0)
+
+---
+updated-dependencies:
+- dependency-name: prettier-plugin-tailwindcss
+  dependency-version: 0.8.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d28adb3</div>
+                                        <div class="message">chore(deps): bump devalue from 5.6.4 to 5.8.1
+
+Bumps [devalue](https://github.com/sveltejs/devalue) from 5.6.4 to 5.8.1.
+- [Release notes](https://github.com/sveltejs/devalue/releases)
+- [Changelog](https://github.com/sveltejs/devalue/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sveltejs/devalue/compare/v5.6.4...v5.8.1)
+
+---
+updated-dependencies:
+- dependency-name: devalue
+  dependency-version: 5.8.1
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -693,326 +1288,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">david-ly/david-ly.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c24654e</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
-
-Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
-- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-parser
-  dependency-version: 5.7.1
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b58d25b</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.7.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01390ae</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
-
-Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-builder
-  dependency-version: 1.2.0
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fcff19</div>
-                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
-
-Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
-- [Release notes](https://github.com/sindresorhus/globals/releases)
-- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
-
----
-updated-dependencies:
-- dependency-name: globals
-  dependency-version: 17.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c96c45</div>
-                                        <div class="message">chore(deps-dev): bump typescript-eslint from 8.53.0 to 8.59.2
-
-Bumps [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) from 8.53.0 to 8.59.2.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.59.2/packages/typescript-eslint)
-
----
-updated-dependencies:
-- dependency-name: typescript-eslint
-  dependency-version: 8.58.2
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f65a662</div>
-                                        <div class="message">chore(deps): bump postcss from 8.5.3 to 8.5.14
-
-Bumps [postcss](https://github.com/postcss/postcss) from 8.5.3 to 8.5.14.
-- [Release notes](https://github.com/postcss/postcss/releases)
-- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.5.3...8.5.14)
-
----
-updated-dependencies:
-- dependency-name: postcss
-  dependency-version: 8.5.14
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">david-ly/david-ly.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c24654e</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
-
-Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
-- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-parser
-  dependency-version: 5.7.1
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b58d25b</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.7.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01390ae</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
-
-Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-builder
-  dependency-version: 1.2.0
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fcff19</div>
-                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
-
-Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
-- [Release notes](https://github.com/sindresorhus/globals/releases)
-- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
-
----
-updated-dependencies:
-- dependency-name: globals
-  dependency-version: 17.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c96c45</div>
-                                        <div class="message">chore(deps-dev): bump typescript-eslint from 8.53.0 to 8.59.2
-
-Bumps [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) from 8.53.0 to 8.59.2.
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.59.2/packages/typescript-eslint)
-
----
-updated-dependencies:
-- dependency-name: typescript-eslint
-  dependency-version: 8.58.2
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">david-ly/david-ly.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c24654e</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-parser from 5.5.11 to 5.7.1
-
-Bumps [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) from 5.5.11 to 5.7.1.
-- [Release notes](https://github.com/NaturalIntelligence/fast-xml-parser/releases)
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-parser/compare/v5.5.11...v5.7.1)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-parser
-  dependency-version: 5.7.1
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b58d25b</div>
-                                        <div class="message">chore(deps-dev): bump eslint-plugin-astro from 1.5.0 to 1.7.0
-
-Bumps [eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro) from 1.5.0 to 1.7.0.
-- [Release notes](https://github.com/ota-meshi/eslint-plugin-astro/releases)
-- [Changelog](https://github.com/ota-meshi/eslint-plugin-astro/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ota-meshi/eslint-plugin-astro/compare/v1.5.0...v1.7.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-plugin-astro
-  dependency-version: 1.7.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01390ae</div>
-                                        <div class="message">chore(deps-dev): bump fast-xml-builder from 1.1.5 to 1.2.0
-
-Bumps [fast-xml-builder](https://github.com/NaturalIntelligence/fast-xml-builder) from 1.1.5 to 1.2.0.
-- [Changelog](https://github.com/NaturalIntelligence/fast-xml-builder/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/NaturalIntelligence/fast-xml-builder/compare/v1.1.5...v1.2.0)
-
----
-updated-dependencies:
-- dependency-name: fast-xml-builder
-  dependency-version: 1.2.0
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fcff19</div>
-                                        <div class="message">chore(deps-dev): bump globals from 17.4.0 to 17.6.0
-
-Bumps [globals](https://github.com/sindresorhus/globals) from 17.4.0 to 17.6.0.
-- [Release notes](https://github.com/sindresorhus/globals/releases)
-- [Commits](https://github.com/sindresorhus/globals/compare/v17.4.0...v17.6.0)
-
----
-updated-dependencies:
-- dependency-name: globals
-  dependency-version: 17.5.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1067,7 +1342,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.67898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.76386036960989 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1103,7 +1378,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.629999999999995 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.94 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1125,7 +1400,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 673 times</div>
+                                <div class="text">Repositories have been deployed 674 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1446,7 +1721,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2026, 19:35:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 May 2026, 19:45:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
